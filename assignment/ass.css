@@ -225,3 +225,13 @@ button:hover {
     width: 400px;
     text-align: left;
 }
+.malo{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+   
+}
+.malo li{
+   margin:100px ;
+     justify-content: center;
+}
